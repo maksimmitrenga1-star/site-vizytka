@@ -1,0 +1,111 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e8f7ff;
+    color: #333;
+}
+
+header {
+    background-color: #4facfe;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: #1683c7;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    margin: 25px 0;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px #bbbbbb;
+}
+
+section h2 {
+    color: #1683c7;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+li {
+    font-size: 18px;
+    margin: 10px;
+}
+
+img {
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 5px 10px #999;
+}
+
+form {
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 25px;
+    box-shadow: 0 5px 15px #bbbbbb;
+}
+
+fieldset {
+    border: 2px solid #4facfe;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+legend {
+    color: #1683c7;
+    font-weight: bold;
+}
+
+button {
+    background-color: #1683c7;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+footer {
+    background-color: #1683c7;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
